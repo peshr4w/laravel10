@@ -1,4 +1,4 @@
 @extends('layout.app')
 @section('content')
-@livewire('app')
+<h1>LARAVEL</h1>
 @stop
